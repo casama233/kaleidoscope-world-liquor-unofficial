@@ -6,7 +6,7 @@ through the shared standalone and optional Cookery guide: localized materials,
 Recipes, effects, assets and storage identities retain their existing behavior.
 
 Static assertions and native zero-player loading do not certify client rendering.
-The full family is updated to luosen under the owner's standing development
+The full family is updated to managed-server under the owner's standing development
 authorization after PR checks, backup and saved-world rehearsal; human acceptance
 remains pending.
 

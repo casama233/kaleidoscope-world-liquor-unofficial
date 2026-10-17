@@ -1,0 +1,276 @@
+{
+  "build": {},
+  "delete_actions_artifacts": [
+    {
+      "artifact_id": 11077409646,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "69fc7ce0d37c2bffe776aabd511b188e0ebeb1323dcab265fe1ceaa695061edc",
+      "original_size": 6608740,
+      "original_updated_at": "2026-09-30T04:39:36Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 36669806921
+    },
+    {
+      "artifact_id": 11077547992,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "4c0316bdeec9180b208ba25181db127a5bf2df62b31b729315b6d8f478ed9ef1",
+      "original_size": 6608740,
+      "original_updated_at": "2026-09-30T04:39:27Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 36669803265
+    },
+    {
+      "artifact_id": 11077716382,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "c1cbb1c876d010f893f6b6bc73394ee3278a0c039da7dc268dbffc44af479d15",
+      "original_size": 6608743,
+      "original_updated_at": "2026-09-30T04:41:12Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 36669932731
+    },
+    {
+      "artifact_id": 11281277131,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "517fa0a0044688e33fd522440dce2fc1cefdd9488912dbf57ebf91e5b4c30252",
+      "original_size": 6636109,
+      "original_updated_at": "2026-10-03T18:22:51Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37143949410
+    },
+    {
+      "artifact_id": 11281566876,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "d59f9ec521973e89815cc5d18de1e7e44268761ba010542ed346d928c47151b7",
+      "original_size": 6636107,
+      "original_updated_at": "2026-10-03T18:24:20Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37144040184
+    },
+    {
+      "artifact_id": 11465412374,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "881a8d81f21bc9391c07a9ae825a879d232d32e8e19fe8cf12d6a0a87fae3a12",
+      "original_size": 6737653,
+      "original_updated_at": "2026-10-07T06:47:04Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37583402088
+    },
+    {
+      "artifact_id": 11466066569,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "939928abe5bd8c56c2daad4ded97bc522962c767668a45a43966fd689e307aa4",
+      "original_size": 6737654,
+      "original_updated_at": "2026-10-07T06:49:47Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37583655258
+    },
+    {
+      "artifact_id": 11476021848,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "6068f7ba164191d3d814996579bd1097d95b61941765c5cb7409d86c5709ae21",
+      "original_size": 6737652,
+      "original_updated_at": "2026-10-07T10:38:29Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37608704712
+    },
+    {
+      "artifact_id": 11476801414,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "33ca375d61a2721300425538c5ca6d469f00901b7df9c34e949eb1dc1738382d",
+      "original_size": 6737654,
+      "original_updated_at": "2026-10-07T10:40:27Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37608908943
+    },
+    {
+      "artifact_id": 11515908111,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "8e42bc7b9805bf7b49a66f7774c544645b818fdcdd2a640017bd93e6deb0a8a1",
+      "original_size": 6999699,
+      "original_updated_at": "2026-10-07T22:43:08Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37697899542
+    },
+    {
+      "artifact_id": 11516426115,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "ceb6a410aa69283537a74e59a4dff9b404ebbe56aea2f091999ca44dabd2f204",
+      "original_size": 6999699,
+      "original_updated_at": "2026-10-07T22:41:48Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37697762924
+    },
+    {
+      "artifact_id": 11517189561,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "bfa61275bb20d75a7a77a368e7e91c24b3318cd68e3f4fcc5abbb656744bc41d",
+      "original_size": 7007190,
+      "original_updated_at": "2026-10-07T23:16:44Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37701298067
+    },
+    {
+      "artifact_id": 11517843782,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "7026130af0a816d66e6abd71e92a4981b318bad8ce7c6e7fdda16ae708bd1060",
+      "original_size": 7007193,
+      "original_updated_at": "2026-10-07T23:33:24Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37702907780
+    },
+    {
+      "artifact_id": 11518382512,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "6f59a6e747fe67aff8670859292a48c57fb6a6ed3424d811c68ce74e3a70b571",
+      "original_size": 7007191,
+      "original_updated_at": "2026-10-07T23:35:46Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37703125542
+    },
+    {
+      "artifact_id": 11518487739,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "2179ad62f6dba885ed55f3eed7d771209171f41c324f23f0f067cbbab4871ce5",
+      "original_size": 7007185,
+      "original_updated_at": "2026-10-07T23:43:22Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37703815518
+    },
+    {
+      "artifact_id": 11518674357,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "77726d829c114bceba28cb4681efd05521ed033ac4f7037b694e4d5bf5e88028",
+      "original_size": 7007192,
+      "original_updated_at": "2026-10-07T23:50:46Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 37704496351
+    },
+    {
+      "artifact_id": 11766359939,
+      "name": "World-Liquor-publication-evidence",
+      "original_sha256": "673be63f1410ad8a170e12d4cf2c13ac1d77bc9477965caa2c08dac2cf1613a9",
+      "original_size": 7014981,
+      "original_updated_at": "2026-10-12T18:53:38Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 38293902929
+    },
+    {
+      "artifact_id": 11766581874,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "6992bf89272600c356d80ef6172a6fcf89f33c39abcb3c296552805c6cab04b2",
+      "original_size": 7015937,
+      "original_updated_at": "2026-10-12T18:35:03Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 38291852656
+    },
+    {
+      "artifact_id": 11767141084,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "5ce84c5ad927403e3d30bc2e7dc91d9de435b0d9b9a1d1547d35fea4fa66e8d3",
+      "original_size": 7015938,
+      "original_updated_at": "2026-10-12T18:36:55Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 38292051359
+    },
+    {
+      "artifact_id": 11769251532,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "874b42a87e87555170b4a25058ddc6944734bc38dae707c43864748fe4936879",
+      "original_size": 7015846,
+      "original_updated_at": "2026-10-12T19:35:13Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 38298581401
+    },
+    {
+      "artifact_id": 11769537856,
+      "name": "World-Liquor-publication-evidence",
+      "original_sha256": "c6f4a618b93d37d0bc22f201dfecdd0ba4035deb0cb00258a0e341512394c005",
+      "original_size": 7015094,
+      "original_updated_at": "2026-10-12T19:46:05Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 38299753605
+    },
+    {
+      "artifact_id": 11769991055,
+      "name": "World-Liquor-foundation-integration",
+      "original_sha256": "237775a7a23cc45103725cafd3a613cce7ac4c7e337b1f1d7b2f845a52f53a5c",
+      "original_size": 7015851,
+      "original_updated_at": "2026-10-12T19:33:56Z",
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "run_id": 38298439399
+    }
+  ],
+  "delete_run_logs": [],
+  "patch_release_bodies": [
+    {
+      "clean_body_content_b64": "IyDkuJbnlYzlkI3phZIgMC4xLjEyOSDmuKzoqabniYgKCumFjeWwjemFkumkqCAqKjAuNi4xNTIqKuOAgumFkumkqOWwh+aOpeaUtuizh+aWmeeahCBVVEY4IOS9jeWFg+e1hOiIhyBGTlYg5qCh6amX5YiG5pWj5Yiw5pS25Yiw55qEIGNodW5r77yb5q2j5bi46aCG5bqP55qEIENPTU1JVCDkuI3lho3ph43nrpfmlbTkuLLmoKHpqZfjgILkuoLluo/ku43kv53nlZnljp/mnIkgZGlnZXN0IGZhbGxiYWNr77yMSlNPTiDop6PmnpDjgIFyZWdpc3RyeSDlronoo53oiIcgQUNLIOe2reaMgeWQjOatpeOAglcxMjkg5Y+q5pu05paw5YyF77yP5qih57WE77yPcGF5bG9hZCDouqvku73lj4rnm7jkvp3vvIxTREvjgIHphY3mlrnjgIHmlbjph4/jgIHmmYLplpPjgIHmjIfljZfjgIHmqKHlnovjgIHli5XnlavjgIHpn7PmlYjoiIfkv53lrZjkv53mjIHjgIIKCuWFrOmWiyBtY2FkZG9uIOebtOaOpeWwgeijnSBjYW5vbmljYWwgcnVudGltZS9CUOOAgXJ1bnRpbWUvUlDvvJvnp4HmnInnrKzkuInmlrnkvobmupDoiIflrr/kuLvmlbTlkIjkuI3ljIXlkKvlnKjlhazplovljIXjgIJHMTMw44CBcHJpdmF0ZS1pbnRlZ3JhdGlvbuOAgVJpYmJpdHMxLjAuMTAwMzYg5L+d5oyB44CCVDE1Me+8j1cxMjgg55qE5ZWf5YuV5LuN5pyJIHdhdGNoZG9n77yM5L6G5rqQ5qCh6amX5qyh5pW45rib5bCR5LiN6IO955W25L2c5Y6f55Sf5pWI6IO95oiW55yf5Lq655Wr6Z2i6YCa6YGO44CCCgrmnKzlgJnpgbjlrozmlbTlrrbml48gQ0njgIHlgZzmnI3lrZjmqpTlia/mnKzpppbmrKHvvI/ph43llZ/jgIHlh4blhaXjgIFMSVZFIOWPiuWFrOmWi+S4i+i8ieiugOWbnueUsVvlrrbml4/ntKLlvJVdKGh0dHBzOi8vZ2l0aHViLmNvbS9jYXNhbWEyMzMva2FsZWlkb3Njb3BlLXRhdmVybi11bm9mZmljaWFsL2Jsb2IvbWFpbi9mYW1pbHkvQkFTRUxJTkUtU1RBVFVTLm1kKeiomOmMhO+8m2BjbGllbnQ9ZmFsc2Vg44CBYHByb2R1Y3Rpb25fcmVhZHk9ZmFsc2Vg77yM5pyq5L2/55So5qih5pOs546p5a6244CC5q235Y+y6K2J5pOa57at5oyB5Y6f6Lqr5Lu944CCCg==",
+      "expected_release_metadata": {
+        "draft": false,
+        "name": "\u68ee\u7f85\u7269\u8a9e\uff1a\u4e16\u754c\u540d\u9152 0.1.129 \u6e2c\u8a66\u7248\uff5c\u9152\u9928152\u540c\u6b65\u5206\u5305\u6821\u9a57\u914d\u5c0d",
+        "prerelease": true
+      },
+      "new_body_sha256": "cf64ab43eae3a725193639cb2c3c48cc2b5004351edb2f7d52ce09ae800dc8c9",
+      "new_body_size": 1036,
+      "original_body_sha256": "7fe6357122efa82ad4d8b9c59f1929cb6ab3a0aa293d24e33910885e64f89261",
+      "original_body_size": 1030,
+      "original_updated_at": "2026-10-12T19:46:02Z",
+      "release_id": 410946690,
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "tag": "v0.1.129-preview.1"
+    },
+    {
+      "clean_body_content_b64": "IyDkuJbnlYzlkI3phZIgMC4xLjEyOCDmuKzoqabniYgKCumFjeWwjemFkumkqCAqKjAuNi4xNTEqKu+8m+mFkumkqOacrOasoemHjeeUqOW3suaIkOWKn+eahOWOn+eUn+eJqeWTgeWumue+qeafpeipou+8jOacquefpemgheWSjOiugOWPlumMr+iqpOS7jeWPr+mHjeippuOAglcxMjgg5Y+q5pu05paw5YyF77yP5qih57WE77yPcGF5bG9hZCDouqvku73lj4rnm7jkvp3vvIxTREvjgIHphY3mlrnjgIHmlbjph4/jgIHml7bpl7TjgIHmjIfljZfjgIHmqKHlnovjgIHli5XnlavjgIHpn7PmlYjoiIflrZjmqpTkv53mjIHjgIJHMTMw44CBcHJpdmF0ZS1pbnRlZ3JhdGlvbuOAgVJpYmJpdHMxLjAuMTAwMzYg5L+d5oyB5pei5pyJ5YWn5a6544CCCgrlhazplosgbWNhZGRvbiDnm7TmjqXlsIHoo50gY2Fub25pY2FsIHJ1bnRpbWUvQlDjgIFydW50aW1lL1JQ44CC56eB5pyJ56ys5LiJ5pa55L6G5rqQ6IiH5a6/5Li75pW05ZCI5LiN5YyF5ZCr5Zyo5YWs6ZaL5YyF77yb6Ieq5pyJ5YWn5a655rKS5pyJ5pys5qmf5pu/5o+b44CCVDE1MO+8j1cxMjcg5Y6f5LiL6LyJ5ZCM5qqU6IiHIG5hdGl2ZSDorYnmk5rntq3mjIHljp/ouqvku73vvIzkuI3og73mjKrngrrmraTmlrDniYjpqZfmlLbjgIIKCuS+hua6kOafpeipoua4m+WwkeS4jeetieaWvCBCRFMg5Y2h6aCT5oiW55yf5Lq655Wr6Z2i6YCa6YGO44CC5a+m6Zqb5pys5YCZ6YG45a6M5pW05a625pePIENJ44CB5YGc5pyN5a2Y5qqU5Ymv5pys6aaW5qyh77yP6YeN5ZWf44CB5YeG5YWl44CBbGl2ZSDoiIflhazplovkuIvovInoroDlm57nlLFb5a625peP57Si5byVXShodHRwczovL2dpdGh1Yi5jb20vY2FzYW1hMjMzL2thbGVpZG9zY29wZS10YXZlcm4tdW5vZmZpY2lhbC9ibG9iL21haW4vZmFtaWx5L0JBU0VMSU5FLVNUQVRVUy5tZCnoqJjpjITvvJtgY2xpZW50PWZhbHNlYOOAgWBwcm9kdWN0aW9uX3JlYWR5PWZhbHNlYO+8jOacquS9v+eUqOaooeaTrOeOqeWutuOAggo=",
+      "expected_release_metadata": {
+        "draft": false,
+        "name": "\u68ee\u7f85\u7269\u8a9e\uff1a\u4e16\u754c\u540d\u9152 0.1.128 \u6e2c\u8a66\u7248\uff5c\u9152\u9928151\u539f\u751f\u67e5\u8a62\u914d\u5c0d",
+        "prerelease": true
+      },
+      "new_body_sha256": "22f5b116e8cdf14424b12e098e59a871b1b5c3d4ecb1a28a4546123b849980ad",
+      "new_body_size": 974,
+      "original_body_sha256": "c150507d469b539bac5aacfe2276a5ba087dc3e9274031206eadf7c2b65008e5",
+      "original_body_size": 968,
+      "original_updated_at": "2026-10-12T18:53:35Z",
+      "release_id": 410911114,
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "tag": "v0.1.128-preview.1"
+    }
+  ],
+  "purpose": "Authorized exact-object public repository surface cleanup",
+  "replace_release_assets": [
+    {
+      "asset_id": 634805842,
+      "clean_content_b64": "IyDkuJbnlYzlkI3phZIgMC4xLjEyOSDmuKzoqabniYgKCumFjeWwjemFkumkqCAqKjAuNi4xNTIqKuOAgumFkumkqOWwh+aOpeaUtuizh+aWmeeahCBVVEY4IOS9jeWFg+e1hOiIhyBGTlYg5qCh6amX5YiG5pWj5Yiw5pS25Yiw55qEIGNodW5r77yb5q2j5bi46aCG5bqP55qEIENPTU1JVCDkuI3lho3ph43nrpfmlbTkuLLmoKHpqZfjgILkuoLluo/ku43kv53nlZnljp/mnIkgZGlnZXN0IGZhbGxiYWNr77yMSlNPTiDop6PmnpDjgIFyZWdpc3RyeSDlronoo53oiIcgQUNLIOe2reaMgeWQjOatpeOAglcxMjkg5Y+q5pu05paw5YyF77yP5qih57WE77yPcGF5bG9hZCDouqvku73lj4rnm7jkvp3vvIxTREvjgIHphY3mlrnjgIHmlbjph4/jgIHmmYLplpPjgIHmjIfljZfjgIHmqKHlnovjgIHli5XnlavjgIHpn7PmlYjoiIfkv53lrZjkv53mjIHjgIIKCuWFrOmWiyBtY2FkZG9uIOebtOaOpeWwgeijnSBjYW5vbmljYWwgcnVudGltZS9CUOOAgXJ1bnRpbWUvUlDvvJvnp4HmnInnrKzkuInmlrnkvobmupDoiIflrr/kuLvmlbTlkIjkuI3ljIXlkKvlnKjlhazplovljIXjgIJHMTMw44CBcHJpdmF0ZS1pbnRlZ3JhdGlvbuOAgVJpYmJpdHMxLjAuMTAwMzYg5L+d5oyB44CCVDE1Me+8j1cxMjgg55qE5ZWf5YuV5LuN5pyJIHdhdGNoZG9n77yM5L6G5rqQ5qCh6amX5qyh5pW45rib5bCR5LiN6IO955W25L2c5Y6f55Sf5pWI6IO95oiW55yf5Lq655Wr6Z2i6YCa6YGO44CCCgrmnKzlgJnpgbjlrozmlbTlrrbml48gQ0njgIHlgZzmnI3lrZjmqpTlia/mnKzpppbmrKHvvI/ph43llZ/jgIHlh4blhaXjgIFMSVZFIOWPiuWFrOmWi+S4i+i8ieiugOWbnueUsVvlrrbml4/ntKLlvJVdKGh0dHBzOi8vZ2l0aHViLmNvbS9jYXNhbWEyMzMva2FsZWlkb3Njb3BlLXRhdmVybi11bm9mZmljaWFsL2Jsb2IvbWFpbi9mYW1pbHkvQkFTRUxJTkUtU1RBVFVTLm1kKeiomOmMhO+8m2BjbGllbnQ9ZmFsc2Vg44CBYHByb2R1Y3Rpb25fcmVhZHk9ZmFsc2Vg77yM5pyq5L2/55So5qih5pOs546p5a6244CC5q235Y+y6K2J5pOa57at5oyB5Y6f6Lqr5Lu944CCCg==",
+      "content_type": "text/markdown; charset=utf-8",
+      "kind": "release_text",
+      "label": "",
+      "name": "RELEASE-NOTES.md",
+      "new_sha256": "cf64ab43eae3a725193639cb2c3c48cc2b5004351edb2f7d52ce09ae800dc8c9",
+      "new_size": 1036,
+      "original_sha256": "7fe6357122efa82ad4d8b9c59f1929cb6ab3a0aa293d24e33910885e64f89261",
+      "original_size": 1030,
+      "original_updated_at": "2026-10-12T19:45:58Z",
+      "release_id": 410946690,
+      "release_immutable_at_inventory": false,
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "tag": "v0.1.129-preview.1"
+    },
+    {
+      "asset_id": 634675987,
+      "clean_content_b64": "IyDkuJbnlYzlkI3phZIgMC4xLjEyOCDmuKzoqabniYgKCumFjeWwjemFkumkqCAqKjAuNi4xNTEqKu+8m+mFkumkqOacrOasoemHjeeUqOW3suaIkOWKn+eahOWOn+eUn+eJqeWTgeWumue+qeafpeipou+8jOacquefpemgheWSjOiugOWPlumMr+iqpOS7jeWPr+mHjeippuOAglcxMjgg5Y+q5pu05paw5YyF77yP5qih57WE77yPcGF5bG9hZCDouqvku73lj4rnm7jkvp3vvIxTREvjgIHphY3mlrnjgIHmlbjph4/jgIHml7bpl7TjgIHmjIfljZfjgIHmqKHlnovjgIHli5XnlavjgIHpn7PmlYjoiIflrZjmqpTkv53mjIHjgIJHMTMw44CBcHJpdmF0ZS1pbnRlZ3JhdGlvbuOAgVJpYmJpdHMxLjAuMTAwMzYg5L+d5oyB5pei5pyJ5YWn5a6544CCCgrlhazplosgbWNhZGRvbiDnm7TmjqXlsIHoo50gY2Fub25pY2FsIHJ1bnRpbWUvQlDjgIFydW50aW1lL1JQ44CC56eB5pyJ56ys5LiJ5pa55L6G5rqQ6IiH5a6/5Li75pW05ZCI5LiN5YyF5ZCr5Zyo5YWs6ZaL5YyF77yb6Ieq5pyJ5YWn5a655rKS5pyJ5pys5qmf5pu/5o+b44CCVDE1MO+8j1cxMjcg5Y6f5LiL6LyJ5ZCM5qqU6IiHIG5hdGl2ZSDorYnmk5rntq3mjIHljp/ouqvku73vvIzkuI3og73mjKrngrrmraTmlrDniYjpqZfmlLbjgIIKCuS+hua6kOafpeipoua4m+WwkeS4jeetieaWvCBCRFMg5Y2h6aCT5oiW55yf5Lq655Wr6Z2i6YCa6YGO44CC5a+m6Zqb5pys5YCZ6YG45a6M5pW05a625pePIENJ44CB5YGc5pyN5a2Y5qqU5Ymv5pys6aaW5qyh77yP6YeN5ZWf44CB5YeG5YWl44CBbGl2ZSDoiIflhazplovkuIvovInoroDlm57nlLFb5a625peP57Si5byVXShodHRwczovL2dpdGh1Yi5jb20vY2FzYW1hMjMzL2thbGVpZG9zY29wZS10YXZlcm4tdW5vZmZpY2lhbC9ibG9iL21haW4vZmFtaWx5L0JBU0VMSU5FLVNUQVRVUy5tZCnoqJjpjITvvJtgY2xpZW50PWZhbHNlYOOAgWBwcm9kdWN0aW9uX3JlYWR5PWZhbHNlYO+8jOacquS9v+eUqOaooeaTrOeOqeWutuOAggo=",
+      "content_type": "text/markdown; charset=utf-8",
+      "kind": "release_text",
+      "label": "",
+      "name": "RELEASE-NOTES.md",
+      "new_sha256": "22f5b116e8cdf14424b12e098e59a871b1b5c3d4ecb1a28a4546123b849980ad",
+      "new_size": 974,
+      "original_sha256": "c150507d469b539bac5aacfe2276a5ba087dc3e9274031206eadf7c2b65008e5",
+      "original_size": 968,
+      "original_updated_at": "2026-10-12T18:53:31Z",
+      "release_id": 410911114,
+      "release_immutable_at_inventory": false,
+      "repository": "casama233/kaleidoscope-world-liquor-unofficial",
+      "tag": "v0.1.128-preview.1"
+    }
+  ],
+  "schema_version": 2
+}

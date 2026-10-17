@@ -5,6 +5,6 @@
 - Installation must not rewrite gameplay scripts or block definitions.
 - `baseline.json` and `release-history.json` bind the release identity to its source fingerprints.
 - CI and the actual packaging commands reject drift, uncommitted runtime and mismatched exports.
-- Existing saved-world identities require an explicit migration plan; do not install over luosen by changing UUIDs blindly.
+- Existing saved-world identities require an explicit migration plan; do not install over managed-server by changing UUIDs blindly.
 
 Status: source reconciliation candidate. Native BDS and client acceptance are recorded separately in the family receipt.
